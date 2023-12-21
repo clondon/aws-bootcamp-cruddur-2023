@@ -100,7 +100,7 @@ We'll create a subscription supply the TopicARN and our Email
 aws sns subscribe \
     --topic-arn TopicARN \
     --protocol email \
-    --notification-endpoint your@email.com
+    --notification-endpoint admin@new-web-sites.com
 ```
 
 Check your email and confirm the subscription
